@@ -7,6 +7,7 @@ public class Main {
 		// this is a comment
 		int x =71232123;
 		double y = 2123.00;
+
 		boolean b = true;
 		float k = 71232123.00f;
 		char symbol = 'j';
