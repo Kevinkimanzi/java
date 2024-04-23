@@ -17,7 +17,7 @@ public class Switch {
                 break;
             case "Saturday":System.out.println("It is Saturday!");
                 break;
-            default:System.out.println("Thats not a date!");
+            default:System.out.println("Thats not a day!");
                 break;
         }
         
